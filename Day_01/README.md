@@ -9,10 +9,11 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Learn random forest
+Learn how to make decision tree 
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+the assignment was a bit difficult 
 
 ## Additional resources used 
-<To be filled>
+nothing
